@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Eva+Coded+By+Anirudh..."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Zim-Bot2+Coded+By+DripsMemes..."
             alt="Typing SVG"
         />
     </a>
@@ -54,7 +54,7 @@ Project created by <a href="https://github.com/SudoAnirudh">Anirudh</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoAnirudh/Eva)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dripshacker/Eva)
      </div>
 <br>
 <br >
